@@ -1,0 +1,17 @@
+git init 
+git remote add origin https://github.com/ritasipaque/ritasipaque.git
+git branch test
+git add -A
+git commit -m "subiendo archivo"
+git pull origin test 
+git pushs origin test
+git checkout master/main 
+
+
+git push -u origin master
+git branch 
+git add -A
+git commit -m "primer commit"
+git branch
+git checkout master
+git merge test
